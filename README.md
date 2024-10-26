@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Github Snake Light](https://raw.githubusercontent.com/learner0904/learner0904/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
+![暗色](https://raw.githubusercontent.com/learner0904/learner0904/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/learner0904/learner0904/output/github-contribution-grid-snake.svg)
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=learner0904&show_icons=true&theme=material-palenight)
