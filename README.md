@@ -1,5 +1,4 @@
 ### Hi there 👋
-![暗色](https://raw.githubusercontent.com/learner0904/learner0904/output/github-contribution-grid-snake-dark.svg)
 ![亮色](https://raw.githubusercontent.com/learner0904/learner0904/output/github-contribution-grid-snake.svg)
 
 
